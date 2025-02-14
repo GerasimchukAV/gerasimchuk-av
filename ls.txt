@@ -1,0 +1,9 @@
+total 16K
+drwxrwxr-x  3 ubuntu ubuntu 160 Feb 14 15:25 ./
+drwxr-x--- 18 ubuntu ubuntu 500 Feb 14 15:24 ../
+drwxrwxr-x  8 ubuntu ubuntu 280 Feb 14 15:25 .git/
+-rw-rw-r--  1 ubuntu ubuntu  16 Feb 14 15:02 README.md
+-rw-rw-r--  1 ubuntu ubuntu 612 Feb 14 15:23 config.txt
+-rw-rw-r--  1 ubuntu ubuntu 180 Feb 14 15:07 first.txt
+-rw-rw-r--  1 ubuntu ubuntu   0 Feb 14 15:25 ls.txt
+-rw-rw-r--  1 ubuntu ubuntu 199 Feb 14 15:07 status.txt
